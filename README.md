@@ -1,4 +1,4 @@
-- <h2>👋 Hi, I’m <b>@MattAugusto00</b></h2>
+- <h2>👋 Hi, I’m @MattAugusto00, cursando atualmente Ciência da Computação em UFLA</h2>
 - <h3>Estou interessado em...</h3>
 - Vaga de Estágio em Desenvolvimento de Software.
 - <h3>Estou aprendendo atualmente</h3>

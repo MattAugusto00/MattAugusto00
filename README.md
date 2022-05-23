@@ -3,9 +3,6 @@
 - Vaga de Estágio em Desenvolvimento de Software.
 - <h3>Estou aprendendo atualmente</h3>
 - O básico de HTML5, CSS3 e JavaScript para WEB.
-- <h3>Algumas habilidades</h3>
-- Inglês Intermediário
-- Estrutura de Dados e Algoritmos em C++
 - <h3>Contato</h3>
 - Instagram: mattaugusto00
 - Gmail: mateus.pinto@estudante.ufla.br

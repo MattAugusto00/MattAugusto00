@@ -6,6 +6,7 @@
 - <h3>Contato</h3>
 - Instagram: mattaugusto00
 - Gmail: mateus.pinto@estudante.ufla.br
+- LinkedIn: linkedin.com/in/mateus-silveira-793172161
 
 <!---
 MattAugusto00/MattAugusto00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

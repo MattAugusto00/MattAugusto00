@@ -2,7 +2,7 @@
 - <h3>Estou interessado em...</h3>
 - Vaga de Estágio em Desenvolvimento de Software.
 - <h3>Estou aprendendo atualmente</h3>
-- O básico de HTML5, CSS3 e JavaScript para WEB.
+- POO em JAVA
 - <h3>Contato</h3>
 - Instagram: mattaugusto00
 - Gmail: mateus.pinto@estudante.ufla.br

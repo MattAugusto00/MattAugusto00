@@ -6,10 +6,6 @@
  ### Habilidades
  * Algoritmos e Estruturas de Dados em **C++**
  * **HTML e CSS**(básico)
- ### Contato
-- [Instagram](mattaugusto00)
-- [Gmail](mateus.pinto@estudante.ufla.br)
-- [LinkedIn](linkedin.com/in/mateus-silveira-793172161)
 
 
 <!---

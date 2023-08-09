@@ -1,4 +1,4 @@
-## Olá, eu sou @MattAugusto00, cursando atualmente Ciência da Computação em UFLA 👋
+## Olá, eu sou @MattAugusto00, cursando atualmente Ciência da Computação em UFLA
 ![MattAugusto00 GitHub stats](https://github-readme-stats.vercel.app/api?username=MattAugusto00&show_icons=true&theme=radical) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattAugusto00)](https://github.com/MattAugusto00/github-readme-stats)
 

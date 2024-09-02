@@ -1,7 +1,7 @@
 ## Olá, eu sou @MattAugusto00, cursando atualmente Ciência da Computação em UFLA
 
  ## Estou interessado em...
- Vaga de Desenvolvimento de Software Júnior.
+ Vaga de Desenvolvimento de Software.
  
  ## Estou aprendendo atualmente
  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)

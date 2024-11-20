@@ -18,7 +18,7 @@
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-silveira-793172161/) </br>
-Gmail : mateus.pinto@estudante.ufla.br
+Email : mateus.augusto9@outlook.com
 
 <!---
 MattAugusto00/MattAugusto00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

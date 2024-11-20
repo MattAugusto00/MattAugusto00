@@ -4,7 +4,7 @@
  Vaga de Desenvolvimento de Software.
  
  ## Estou aprendendo atualmente
- ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+ ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
  ## Habilidades
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)

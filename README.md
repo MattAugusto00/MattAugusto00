@@ -1,4 +1,4 @@
-## Olá, eu sou @MattAugusto00, cursando atualmente Ciência da Computação em UFLA
+## Olá, eu sou @MattAugusto00, recém-graduado em Ciência da Computação em UFLA
 
  ## Estou interessado em...
  Vaga de Desenvolvimento de Software.

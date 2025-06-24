@@ -1,23 +1,21 @@
-## Olá, eu sou @MattAugusto00, recém-graduado em Ciência da Computação em UFLA
+## Hello, I'm @MattAugusto00, backend developer and recent graduate in Computer Science at UFLA
 
- ## Estou interessado em...
- Vaga de Desenvolvimento de Software.
+ ## Interested in:
+ Backend Development.
  
- ## Estou aprendendo atualmente
- ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+ ## I'm currently learning
+ ![Spring Boot](https://shields.io/badge/spring-boot-framework?logo=spring-boot&style=for-the-badge)
 
- ## Habilidades
+ ## Some skills found here
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
- * Algoritmos e Estruturas de Dados em **C++**
- * Frontend com **HTML, CSS e JS**
- * Programação Orientada a Objetos em **JAVA**
+ * Algorithms and Data Structures with **C++**
+ * Object Oriented Programming with **JAVA**
+ * **HTML e CSS**
 
-## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-silveira-793172161/) </br>
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-augusto-793172161/) </br>
 Email : mateus.augusto9@outlook.com
 
 <!---

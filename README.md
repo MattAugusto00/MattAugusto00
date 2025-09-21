@@ -4,16 +4,16 @@
  Backend Development.
  
  ## I'm currently learning
- ![Spring Boot](https://shields.io/badge/spring-boot-framework?logo=spring-boot&style=for-the-badge)
+* Microservices with Spring Cloud
 
  ## Some skills found here
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
- * Algorithms and Data Structures with **C++**
+ ![Spring Boot](https://shields.io/badge/spring-boot-framework?logo=spring-boot&style=for-the-badge)
  * Object Oriented Programming with **JAVA**
- * **HTML e CSS**
-
+ * Backend with **Spring Boot and PostgreSQL**
+ 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-augusto-793172161/) </br>
 Email : mateus.augusto9@outlook.com
